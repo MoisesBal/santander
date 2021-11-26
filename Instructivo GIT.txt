@@ -27,6 +27,9 @@ git checkout nombre-rama
 Cómo puedo saber todos los cambios que hice?
 git log o git log --oneline
 
+Agregrar llos comabios?
+git add .
+
 Cómo mergear?
 git checkout develop (nos paramos en la rama principal)
 git merge nombre-rama (mergeamos... traemos los cambios de esa rama a la rama principal)
